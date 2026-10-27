@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .nav-link:hover {
+    font-weight: 700;
+  }
+}
