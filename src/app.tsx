@@ -10,12 +10,10 @@ import accessAnywhere from "./assets/icon-access-anywhere.svg";
 import security from "./assets/icon-security.svg";
 import collaboration from "./assets/icon-collaboration.svg";
 import anyFile from "./assets/icon-any-file.svg";
-import arrow from "./assets/icon-arrow.svg";
 import bgQuotes from "./assets/bg-quotes.png";
 import sattish from "./assets/profile-1.jpg";
 import bruce from "./assets/profile-2.jpg";
 import iva from "./assets/profile-3.jpg";
-import location from "./assets/icon-location.svg";
 import email from "./assets/icon-email.svg";
 import phone from "./assets/icon-phone.svg";
 
